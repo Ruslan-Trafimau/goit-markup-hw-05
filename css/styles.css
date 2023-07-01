@@ -821,7 +821,8 @@ img {
   position: relative;
 }
 
-.modal-div-icon:hover {
+.modal-div:hover {
+  position: relative;
   fill: #4d5ae5;
 }
 
