@@ -893,7 +893,7 @@ img {
   margin-bottom: 24px;
 }
 
-.modal-input-checkbox:checked + .modal-checkbox-span {
+.modal-input-checkbox:checked + .modal-label span {
   background-color: #404bbf;
   border: none;
   fill: var(--dark-white-color);
